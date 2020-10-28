@@ -1,0 +1,1 @@
+  Volume: 2.0. Ploshcha = 85.0.  Volume: 8.0. Ploshcha = 45.0.  Volume: 8.333333333333332. Ploshcha = 108.0.  Volume: 6.666666666666666. Ploshcha = 108.0.  Volume: 10.0. Ploshcha = 28.0.  Volume: 4.0. Ploshcha = 28.0.  Volume: 3.333333333333333. Ploshcha = 108.0. 
